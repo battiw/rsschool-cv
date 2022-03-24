@@ -59,6 +59,22 @@ I am married and have three dependent children. The property has real estate. I 
 
 ### Code example:
 
+KATA from CODEWARS: _An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case._
+
+```
+function isIsogram(str) {
+  let arrIn = str.toLowerCase().split("");
+  let arrOut = [];
+  for (let i = 0; i < arrIn.length; i++) {
+    arrIn.forEach(function (item, index) {
+      if (item === arrIn[i] && index !== i) {
+        arrOut.push(item);
+      }
+    });
+  }
+  return arrOut.length > 1 ? false : true;
+```
+
 ---
 
 ### Courses:
