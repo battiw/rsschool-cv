@@ -13,7 +13,9 @@ rsschool-cv
 ### Contact information:
 
 Phone: +375 29 2205055
+
 E-mail: battiwgood@gmail.com
+
 [LinkedIn](linkedin.com/feed/)
 
 ---
@@ -46,12 +48,12 @@ I am married and have three dependent children. The property has real estate. I 
 
 ### SOFT SKILLS
 
-Sociability  
-Creativity of thinking  
-Teamwork  
-Responsibility
-Openness
-Honesty and willingness to learn
+- Sociability
+- Creativity of thinking
+- Teamwork
+- Responsibility
+- Openness
+- Honesty and willingness to learn
 
 ---
 
