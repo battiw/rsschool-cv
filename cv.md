@@ -41,10 +41,6 @@ I am married and have three dependent children. The property has real estate. I 
 - business communication in oral and written forms
 - work with legal documentation
 - Information security
-- language
-- Russian – native;
-- English – A2;
-- German – A1;
 
 ### SOFT SKILLS
 
@@ -77,9 +73,64 @@ function isIsogram(str) {
 
 ---
 
+### EDUCATION:
+
+---
+
+1993/09 – 1998/07 - Brest Technical University
+Faculty - Electronic-mechanical
+Speciality - “Automation of technical processes and production”
+Bachelor, qualified “Electrical-engineer”.
+
+---
+
+1997/02 – 1998/08 - Brest Technical University
+Faculty - Economic
+Speciality - “Management”
+Bachelor, qualified “Economist-manager”.
+
+---
+
+1998/08 – 2000/07- Minsk state institute
+Speciality - “Information security”
+Bachelor, qualified “Information Security”.
+
+---
+
+### WORK EXPERIENCE:
+
+---
+
+2000/08 – 2021/10
+Information security
+Department head
+Efficient organization of the work of a department of up to 20 employees.
+
+---
+
 ### Courses:
+
+---
 
 2021/10 – 2022/02
 Study of The Rolling Scopes - NodeJS
 [certificate](https://app.rs.school/certificate/7qdwi5ov)
 During the course, a CLI application and a REST server were created. The basics of NodeJS, its architecture, features of working with asynchronous code, interaction with the file system, and work with streams are covered. The following technologies were used: JavaScript and TypeScript, NodeJs and NestJs, PostgreSQL and TypeORM, JEST, JWT, Docker, Git and GitHub.
+
+---
+
+2021/07 – 2021/08
+Сommunications academy - Basics Linux
+
+---
+
+### Language:
+
+---
+
+- Russian – native;
+- English – A2;
+- Polish - A1
+- German – A1;
+
+---
