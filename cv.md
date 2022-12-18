@@ -129,6 +129,14 @@ During the course, a CLI application and a REST server were created. The basics 
 
 ---
 
+2022/05 – 2022/08
+
+Study of The Rolling Scopes - NodeJS & AWS
+
+[certificate](https://app.rs.school/certificate/uxuv4qii)
+
+---
+
 2021/07 – 2021/08
 
 Сommunications academy - Basics Linux
